@@ -4,7 +4,7 @@
 
 <p align="center"><img src="LEAPic.png" width=35% alt="LightEmAll"><span>     </span><img src="LEA_GP.gif" width=35% alt="LightEmAll Gameplay"></p>
 
-<h6 align="center">Unique Features</h6>
+<h4 align="center">Unique Features</h4>
 <ul>
   <li>Timer - Adds Element of Urgency</li>
   <li>Counter - Vibrant Green Color & Tracks number of rotations you make</li>
